@@ -10,7 +10,7 @@ public class LoginController {
 	@RequestMapping("/login")
 	@ResponseBody
 	public String login() {
-		return "Welcome to LoginPage !!!";
+		return "Welcome to NEW LoginPage !!!";
 	}
 
 }
